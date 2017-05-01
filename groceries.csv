@@ -1,0 +1,47 @@
+# This is a comment because apparently 
+# there is no csv standard for comments
+#
+# TODO want to sort alphabetically, so put
+# the main name first
+#
+# food name,price,store,total calories,
+avocado,1.50,giant eagle,
+avocado,1.99,trader joes,
+bacon black forest,5.49,trader joes,
+blackberries,4.99,220,trader joes,
+bread ezekiel,4.49,trader joes,
+bread ezekiel,5.69,whole foods
+cheee mexican,3.49,trader joes,
+cheese parmesan,5.49,trader joes,
+cheese provolone,4.49,trader joes
+cold cuts spanish,4.99,trader joes,
+eggs non gmo,2.99,whole foods
+eggs,1.19,trader joes,
+feta,2.69,trader joes,
+garlic organic,1.49,121,trader joes,
+honey,7.49,trader joes,
+kale,2.49,140,trader joes
+lentils red,1.69,trader joes,
+lime,0.29,trader joes,
+match,6.99,trader joes,
+milk whole,1.99,824,trader joes,
+mozzarella lite,3.99,trader joes,
+onions yellow,2.99,363,trader joes,
+pasta gnocchi,1.69,trader joes,
+peanut butter chia seed,2.99,trader joes
+peanut butter,1.99,trader joes,
+peanut butter,4.99,whole foods
+pork cutlets,4.53,trader joes,
+pork ground,4.99,trader joes,
+prosciutto,4.99,trader joes,
+puffins,3.99,trader joes,
+pumpkin seeds,6.99,trader joes,
+raisins,2.99,trader joes,
+snack rx bar,1.99,trader joes,
+steak shaved,7.99,trader joes,
+sweet potatoes,1.69,780,trader joes,
+tomato roma,0.29,trader joes,
+tortilla handmade,2.79,trader joes,
+tortilla whole grain,2.69,trader joes,
+turkey sliced,3.29,trader joes,
+vinegar rice wine,1.99,trader joes,
