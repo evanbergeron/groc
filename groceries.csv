@@ -1,19 +1,13 @@
-# This is a comment because apparently 
-# there is no csv standard for comments
-#
-# TODO keep going
-#
-# food name,price,store,total calories,
-avocado,1.50,giant eagle,234,
-avocado,1.99,trader joes,234,
-bacon black forest,5.49,trader joes,
+avocado,1.50,giant eagle,234
+avocado,1.99,trader joes,234
+bacon black forest,5.49,trader joes,TODO
 bacon apple smoked,5.49,trader joes,519
 blackberries,4.99,trader joes,220
 bread ezekiel,4.49,trader joes,1600
 bread ezekiel,5.69,whole foods,1600
-cheese mexican,3.49,trader joes,
+cheese mexican,3.49,trader joes,TODO
 cheese parmesan,5.49,trader joes,1320
-cheese provolone,4.49,trader joes
+cheese provolone,4.49,trader joes,TODO
 cold cuts spanish,4.99,trader joes,460
 eggs non gmo,2.99,whole foods,TODO
 eggs,1.19,trader joes,TODO
@@ -25,13 +19,13 @@ lentils red,1.69,trader joes,1690
 lime,0.29,trader joes,20
 matcha,6.99,trader joes,35
 milk whole,1.99,trader joes,824
-mozzarella lite,3.99,trader joes,
+mozzarella lite,3.99,trader joes,TODO
 onions yellow,2.99,trader joes,363
 pasta gnocchi,1.69,trader joes,720
-peanut butter chia seed,2.99,trader joes,
+peanut butter chia seed,2.99,trader joes,TODO
 peanut butter,1.99,trader joes,2660
 peanut butter,4.99,whole foods,2660
-pepperoni,TODO,trader joes,840,
+pepperoni,TODO,trader joes,840
 pork cutlets,4.53,trader joes,TODO
 pork ground,4.99,trader joes,TODO
 prosciutto,4.99,trader joes,TODO
@@ -39,10 +33,10 @@ puffins,3.99,trader joes,TODO
 pumpkin seeds,6.99,trader joes,2550
 raisins,2.99,trader joes,1361
 salsa tomatillo,TODO,trader joes,122
-snack rx bar,1.99,trader joes,
-steak shaved,7.99,trader joes,1227,
-sweet potatoes,1.69,trader joes,780,
-tomato roma,0.29,trader joes,35,
+snack rx bar,1.99,trader joes,TODO
+steak shaved,7.99,trader joes,1227
+sweet potatoes,1.69,trader joes,780
+tomato roma,0.29,trader joes,35
 tortilla flour whole grain flax,2.69,trader joes,1300
 tortilla corn,TODO,trader joes,720
 turkey sliced,3.29,trader joes,TODO
