@@ -28,7 +28,7 @@ def parse_groceries(filename):
     return result
 
 def order_by_cost_per_calories(groceries):
-    return [name for _, name in sorted([ \
+    return [('%0.2f' % round(100*cost,2), name) for cost, name in sorted([ \
         (grocery.price / grocery.calories, grocery.name) \
         for grocery in groceries]
         )]
