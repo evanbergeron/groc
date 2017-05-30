@@ -1,59 +1,70 @@
 almonds organic,9.99,safeway sunnyvale,2608
 almonds,7.99,safeway sunnyvale,2608
 avocado,1.50,giant eagle,234
-avocado,1.99,trader joes,234
-bacon apple smoked,5.49,trader joes,519
-bacon black forest,5.49,trader joes,TODO
-beef shaved,7.99,trader joes,640
+avocado,1.79,trader joes sunnyvale,234
+avocado,1.99,trader joes pittsburgh,234
+bacon apple smoked,5.49,trader joes pittsburgh,519
+bacon black forest,5.49,trader joes pittsburgh,TODO
+beef shaved,7.99,trader joes pittsburgh,640
 black beans organic,2.49,safeway sunnyvale,1538
-blackberries,4.99,trader joes,220
-bread ezekiel,4.49,trader joes,1600
+blackberries,4.99,trader joes pittsburgh,220
+bread ezekiel,4.49,trader joes pittsburgh,1600
 bread ezekiel,5.69,whole foods,1600
+bread sprouted,3.49,trader joes sunnyvale,TODO
+brussel sprouts,2.29,trader joes sunnyvale,TODO
 cashews organic,14.99,safeway sunnyvale,2508
 cashews,6.99,safeway sunnyvale,2508
-cereal puffins,3.99,trader joes,1530
-cheese mexican,3.49,trader joes,1336
-cheese parmesan,5.49,trader joes,1320
-cheese provolone,4.49,trader joes,TODO
-coconut cream,2.29,trader joes,1170
-coconut milk,1.69,trader joes,660
-cold cuts spanish,4.99,trader joes,460
+cereal puffins,3.99,trader joes pittsburgh,1530
+cheese mexican,3.49,trader joes pittsburgh,1336
+cheese parmesan,5.49,trader joes pittsburgh,1320
+cheese provolone,4.49,trader joes pittsburgh,TODO
+coconut cream,2.29,trader joes pittsburgh,1170
+coconut milk,1.69,trader joes pittsburgh,660
+cold cuts spanish,4.99,trader joes pittsburgh,460
 eggs non gmo,2.99,whole foods,TODO
-eggs,1.19,trader joes,840
-feta,2.69,trader joes,420
-garlic organic,1.49,trader joes,121
-honey,7.49,trader joes,1382
-kale,2.49,trader joes,140
-lentils red,1.69,trader joes,1690
-lime,0.29,trader joes,20
-matcha,6.99,trader joes,35
-milk whole,1.99,trader joes,824
-mozzarella lite,3.99,trader joes,TODO
-oil canola,2.49,trader joes,8040
-onions yellow,2.99,trader joes,363
-pasta gnocchi,1.69,trader joes,720
-pasta linguine,0.99,trader joes,1680
-peanut butter chia seed,2.99,trader joes,TODO
+eggs,1.19,trader joes pittsburgh,840
+feta,2.69,trader joes pittsburgh,420
+garlic organic,1.49,trader joes pittsburgh,121
+honey local,9.99,trader joes sunnyvale,1382
+honey,7.49,trader joes pittsburgh,1382
+kale,2.49,trader joes pittsburgh,140
+lentils red,1.69,trader joes pittsburgh,1690
+lime,0.19,trader joes sunnyvale,20
+lime,0.29,trader joes pittsburgh,20
+matcha,6.99,trader joes pittsburgh,35
+milk whole,1.99,trader joes pittsburgh,824
+mozzarella lite,3.99,trader joes pittsburgh,TODO
+oil canola,2.49,trader joes pittsburgh,8040
+onions yellow,2.99,trader joes pittsburgh,363
+pasta gnocchi,1.69,trader joes pittsburgh,720
+pasta gnocchi,1.69,trader joes sunnyvale,720
+pasta linguine,0.99,trader joes pittsburgh,1680
+peanut butter chia seed,2.99,trader joes pittsburgh,TODO
 peanut butter jif,8.49,safeway sunnyvale,TODO
-peanut butter,1.99,trader joes,2660
+peanut butter,1.99,trader joes pittsburgh,2660
 peanut butter,4.99,whole foods,2660
 peanuts organic,4.99,safeway sunnyvale,2572
 peanuts,3.99,safeway sunnyvale,2572
-pepperoni,TODO,trader joes,840
-pork cutlets,4.53,trader joes,TODO
-pork ground,4.99,trader joes,1120
-prosciutto,4.99,trader joes,360
-pumpkin seeds,6.99,trader joes,2550
+pepperoni,TODO,trader joes pittsburgh,840
+pork cutlets,4.53,trader joes pittsburgh,TODO
+pork ground,4.99,trader joes pittsburgh,1120
+prosciutto,4.99,trader joes pittsburgh,360
+pumpkin seeds,6.99,trader joes pittsburgh,2550
 quinoa organic,6.99,safeway sunnyvale,1696
-raisins,2.99,trader joes,1361
-salsa tomatillo,TODO,trader joes,122
-snack rx bar,1.99,trader joes,TODO
+raisins,2.99,trader joes pittsburgh,1361
+salsa tomatillo,2.49,trader joes sunnyvale,122
+salsa tomatillo,TODO,trader joes pittsburgh,122
+snack rx bar,1.99,trader joes pittsburgh,TODO
 soy suice,2.99,giant eagle,300
-steak shaved,7.99,trader joes,1227
-sweet potatoes,1.69,trader joes,780
-tomato roma,0.29,trader joes,35
-tortilla corn,TODO,trader joes,720
-tortilla flour whole grain flax,2.69,trader joes,1300
-turkey sliced,3.29,trader joes,TODO
-vinegar rice wine,1.99,trader joes,80
+spices everyday seasoning,1.99,trader joes sunnyvale,0
+steak shaved,7.99,trader joes pittsburgh,1227
+sweet potatoes,1.69,trader joes pittsburgh,780
+sweet potatoes,1.79,trader joes sunnyvale,780
+tomato roma,0.29,trader joes pittsburgh,35
+tomato roma,0.29,trader joes sunnyvale,35
+tortilla corn,TODO,trader joes pittsburgh,720
+tortilla flour whole grain flax,2.69,trader joes pittsburgh,1300
+turkey sliced,3.29,trader joes pittsburgh,TODO
+vinegar rice wine,1.99,trader joes pittsburgh,80
 walnuts,12.99,safeway sunnyvale,2965
+weetabix,2.99,trader joes sunnyvale,TODO
